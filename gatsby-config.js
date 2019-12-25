@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Static Fuse',
+    title: 'WP Gatsby demo',
     description: 'Headless WordPress with Gatsby FTW.',
-    author: 'Scott and Justin',
-    twitter: '@staticfuse',
+    author: 'Lax Mariappan',
+    twitter: '@laxmariappan',
     siteUrl: `https://staticfuse.com`,
   },
   plugins: [
@@ -14,7 +14,7 @@ module.exports = {
         mailChimpEndpoint: 0,
         dynamicComments: 1,
         gaTrackingId: 0,
-        wordPressUrl: `https://publishertheme.staticfuse.com`,
+        wordPressUrl: `https://dev.eternusglobal.com/cars4sale`,
         blogURI: '/blog'
       },
     },

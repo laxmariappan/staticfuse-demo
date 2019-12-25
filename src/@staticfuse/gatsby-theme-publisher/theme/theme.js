@@ -8,9 +8,9 @@ const publisherTheme = {
     // primary: theme.colors.blue,
     // muted: "#999",
     // headings: "#2D3748",
-    // links: theme.colors.blue,
-    // navLink: "#ffffff",
-    // headerBg: "#2D3748"
+     links: "#d85fb0",
+     navLink: "#ffffff",
+     headerBg: "#d85fb0"
   },
 }
 
